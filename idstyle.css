@@ -1,5 +1,5 @@
 body{
-    background-color: #fabee5;
+    background-color: #aee5ee;
 }
 .box
         {
@@ -22,12 +22,14 @@ body{
             text-align: center;
             font-family: agency fb;
             text-decoration: underline;
+            color: #cd6cef;
         }
         .content{
             text-align: center;
             font-family:agency fb;
             text-transform: uppercase;
             font-size: x-large;
+            color: #f9eeff;
 
         }
         .hole{
@@ -48,7 +50,7 @@ body{
         }
         .specs span{
             padding: 4%;
-            border: 2px solid aqua;
+            border: 2px solid #df91e9;
             border-radius: 15px;
             margin: 2%;
 
